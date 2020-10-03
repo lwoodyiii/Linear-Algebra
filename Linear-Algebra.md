@@ -1,2 +1,2 @@
 # Linear Algebra
-Linear Algebra is the study of systems of [linear equations](Linear-Equation.md).
+Linear Algebra is the study of [systems of linear equations](System-of-Linear-Equations.md).
